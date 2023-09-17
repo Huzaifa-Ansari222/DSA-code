@@ -3,8 +3,9 @@ import java.util.Arrays;
 public class bubbleSortTRy {
     public static void main(String[] args) {
 //        int []arr ={1,2,3,4,5};
-
-        int []arr ={-1,-5,0,1,-4,2,3,4,5};
+        int []arr =   {0, 2, 1, 2, 0};
+        int n;
+      //  int []arr ={-1,-5,0,1,-4,2,3,4,5};
         function(arr);
         System.out.println(Arrays.toString(arr));//print all the arr
 
